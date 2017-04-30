@@ -9,7 +9,6 @@
 <html>
   <head>
     <title>$Title$</title>
-    This is wierd.
   </head>
   <body>
   $END$
